@@ -1,6 +1,6 @@
 # lightning-blockchain
 
-## The source of all evil
+## The root of all evil
 ```
 --- a/trunk/main.h
 +++ b/trunk/main.h
