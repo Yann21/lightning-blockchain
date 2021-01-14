@@ -1,0 +1,6 @@
+bitcoind on testnet
+lightningd on mainnet??
+
+change logging level
+reload the plugin without stopping lightningd
+
