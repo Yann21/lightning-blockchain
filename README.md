@@ -19,7 +19,7 @@
 * [Get started](#get-started)
 * [Requirements](#requirements)
 
-## How to start?
+## How to get started?
 ```
 # TODO: environment file
 # Create conda environment
