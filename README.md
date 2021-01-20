@@ -1,4 +1,4 @@
-# lightning-blockchain
+# Lightning Network Vulnerabilities
 
 ## Table of contents
 * [General info](#general-info)
