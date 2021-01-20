@@ -1,5 +1,10 @@
 # lightning-blockchain
 
+## Table of contents
+* [General info](#general-info)
+* [Get started](#get-started)
+* [Requirements](#requirements)
+
 ## The root of all evil
 ```
 --- a/trunk/main.h
@@ -14,10 +19,6 @@
  static const int COINBASE_MATURITY = 100;
  ```
 
-## Table of contents
-* [General info](#general-info)
-* [Get started](#get-started)
-* [Requirements](#requirements)
 
 ## How to get started?
 ```
@@ -37,7 +38,7 @@ $ lightningd --plugin=$PWD/src/probe.py
 # Wait for synchronization
 
 # Run the plugin
-$ lightning-cli probe
+$ lightning-cli probe <node_id> <max_capacity> <epsilon_precision>
 ```
 
 ## Requirements
