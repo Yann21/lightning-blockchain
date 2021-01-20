@@ -22,20 +22,16 @@
 
 ## How to get started?
 ```
-# TODO: environment file
-# Create conda environment
-$ conda env create -f environment.yml
-
 # Start the bitcoin daemon
 $ bitcoind [--testnet]
-
-# Create environment first
-$ conda activate btc
 
 # Start the c-lightning daemon
 $ lightningd --plugin=$PWD/src/probe.py
 
 # Wait for synchronization
+
+# Install python libraries
+$ pip install -r requirements.txt
 
 # Run the plugin
 $ lightning-cli probe <node_id> <max_capacity> <epsilon_precision>
@@ -43,9 +39,6 @@ $ lightning-cli probe <node_id> <max_capacity> <epsilon_precision>
 
 ## Requirements
 * bitcoin-core
-* lightningc
+* c-lightning
 * python 3.6+
-    * python-bitcoinlib
-    * lightning-python
     * pyln-client
-
