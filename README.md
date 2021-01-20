@@ -1,8 +1,8 @@
 # Lightning Network Vulnerabilities
 
 ## Table of contents
-* [General info](#general-info)
-* [Get started](#get-started)
+* [General info](#the-root-of-all-evil)
+* [Get started](#how-to-get-started)
 * [Requirements](#requirements)
 
 ## The root of all evil
