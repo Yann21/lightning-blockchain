@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [General info](#the-root-of-all-evil)
-* [Get started](#how-to-get-started)
+* [Getting started](#how-to-get-started)
 * [Requirements](#requirements)
 
 ## The root of all evil
